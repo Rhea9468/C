@@ -1,4 +1,4 @@
-# C
+# Sportify
 Sportify program
 
 This is a basic mp3 file selecter that plays files wil .mp3 extension.
