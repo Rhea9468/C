@@ -1,0 +1,31 @@
+/* Styling for the menu bar */
+.menu-bar {
+    padding: 10px; /* Add padding around the menu bar */
+    background-color: #8034eb; /* Purple background */
+    color: white; /* White text color */
+}
+
+/* Make the menu items background purple */
+.menu-item {
+    background-color: #fafafa; /* Purple background */
+    color: black; /* White text color */
+}
+
+/* Change the background color when hovering over menu items */
+.menu-item:hover {
+    background-color: #a64ceb; /* Lighter purple on hover */
+    color: white; /* Ensure text remains white */
+}
+
+/* Additional styling */
+window {
+    background-color: #1f1f1f; /* Change the window color */
+}
+
+button {
+    background-color: #fafafa;
+    color: black;
+    border-radius: 5px;
+    padding: 10px;
+}
+
